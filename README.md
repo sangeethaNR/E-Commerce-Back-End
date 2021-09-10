@@ -8,7 +8,9 @@
 This project  is to build the back end for an e-commerce site. This application uses Express.js API and Sequelize to interact with a MySQL database,dotenv for setting up environment varaibles. 
 
 Walkthrough video of this application is given below
-https://user-images.githubusercontent.com/81266861/132811877-3870bf2b-16c0-4d96-bc02-cdcd3927c931.mp4
+
+  https://user-images.githubusercontent.com/81266861/132811877-3870bf2b-16c0-4d96-bc02-cdcd3927c931.mp4
+  
  ## Technologies Used
    JavaScript
    Node.js
