@@ -12,11 +12,11 @@ Walkthrough video of this application is given below
   https://user-images.githubusercontent.com/81266861/132811877-3870bf2b-16c0-4d96-bc02-cdcd3927c931.mp4
   
  ## Technologies Used
-   JavaScript
-   Node.js
-  Express.js
-  Sequelize
-  MYSQL
+    JavaScript
+    Node.js
+    Express.js
+    Sequelize
+    MYSQL
 
   ## Workflow of the app
   ```md
